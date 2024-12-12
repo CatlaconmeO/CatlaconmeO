@@ -35,7 +35,7 @@ Here are a few projects I've worked on:
 
 ## 🌱 Currently Learning
 
-- I'm focusing on System Design, Advanced Spring Security, Microservices Architecture, Cloud Platforms (AWS, Azure), Message Queues (Kafka)
+- I'm focusing on Anguler, System Design, Advanced Spring Security, Microservices Architecture, Cloud Platforms (AWS, Azure), Message Queues (Kafka)
 
 ## 📫 Contact
 
